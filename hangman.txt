@@ -1,0 +1,7 @@
+random = true;
+//Change to false if you want sequential order.
+Enter word/phrase(s) below.
+Hello
+World
+Computer
+Help
